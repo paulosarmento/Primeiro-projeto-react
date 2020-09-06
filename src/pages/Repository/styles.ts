@@ -19,7 +19,6 @@ export const Header = styled.header`
     svg {
       margin-right: 4px;
     }
-
   }
 `;
 export const RepositoryInfo = styled.section`
@@ -55,7 +54,6 @@ export const RepositoryInfo = styled.section`
     margin-top: 40px;
 
     li {
-
       & + li {
         margin-left: 80px;
       }
